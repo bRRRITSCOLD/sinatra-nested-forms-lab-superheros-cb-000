@@ -12,6 +12,6 @@ class Superhero
   def self.all
     @@HEROS
   end
-  
+
 
 end
